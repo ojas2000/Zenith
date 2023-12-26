@@ -6,7 +6,7 @@ Welcome to the GOLDENGARDIAN App Jam! Our Android Studio project, Zenith, is our
 
 Before you begin, ensure that you have the following software installed on your machine:
 
-- [Android Studio Hedgehog]([https://developer.android.com/studio) 
+- [Android Studio Hedgehog](https://developer.android.com/studiohttps) 
 - Java Development Kit (JDK) [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 ## Getting Started
